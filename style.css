@@ -2,3 +2,9 @@
     background-color: brown;
     color: blueviolet;
 }
+.title h1 {
+    text-align: center;
+}
+.card {
+    margin: 20px auto;
+}
