@@ -5,6 +5,7 @@
 .title h1 {
     text-align: center;
 }
-.card {
-    margin: 20px auto;
+.card-wrapper {
+    display: flex;
+    justify-content: center;
 }
